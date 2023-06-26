@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Store_Data_Using_Internal_Storage</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+</resources>
